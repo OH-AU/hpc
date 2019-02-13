@@ -1,10 +1,9 @@
-
 ---
 title: "Data transfer"
 teaching: 15
 exercises: 15
 questions:
-- "Key question (FIXME)"
+- "How do I upload data to the HPC?"
 objectives:
 - "Transfer Data to the HPC System"
 keypoints:

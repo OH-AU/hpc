@@ -1,4 +1,3 @@
-
 ---
 title: "Modules"
 teaching: 15
@@ -18,6 +17,8 @@ keypoints:
 * list
 * show
 * Exercise: working with modules
+
+* What if the module I need is not available?
 
 {% include links.md %}
 
